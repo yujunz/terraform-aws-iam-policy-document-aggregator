@@ -268,9 +268,9 @@ Check out [our other projects][github], [follow us on twitter][twitter], [apply 
 |---|---|
 
   [goruha_homepage]: https://github.com/goruha
-  [goruha_avatar]: https://github.com/goruha.png?size=150
+  [goruha_avatar]: https://img.cloudposse.com/150x150/https://github.com/goruha.png
   [maximmi_homepage]: https://github.com/maximmi
-  [maximmi_avatar]: https://github.com/maximmi.png?size=150
+  [maximmi_avatar]: https://img.cloudposse.com/150x150/https://github.com/maximmi.png
 
 
 
